@@ -966,8 +966,8 @@ class Item{
 			self::addCreativeItem(Item::get(Item::STONE_PRESSURE_PLATE, 0));
 			self::addCreativeItem(Item::get(Item::LIGHT_WEIGHTED_PRESSURE_PLATE, 0));
 			self::addCreativeItem(Item::get(Item::HEAVY_WEIGHTED_PRESSURE_PLATE, 0));
-			self::addCreativeItem(Item::get(Item::WOODEN_BUTTON, 0));
-			self::addCreativeItem(Item::get(Item::STONE_BUTTON, 0));
+			self::addCreativeItem(Item::get(Item::WOODEN_BUTTON, 5));
+			self::addCreativeItem(Item::get(Item::STONE_BUTTON, 5));
 			self::addCreativeItem(Item::get(Item::DAYLIGHT_SENSOR, 0));
 			self::addCreativeItem(Item::get(Item::TRIPWIRE_HOOK, 0));
 			self::addCreativeItem(Item::get(Item::REPEATER));
