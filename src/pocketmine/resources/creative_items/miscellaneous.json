@@ -1,0 +1,761 @@
+{
+   "Coal":{
+      "ID":263,
+      "Damage":0
+   },
+   "Charcoal":{
+      "ID":263,
+      "Damage":1
+   },
+   "Diamond":{
+      "ID":264,
+      "Damage":0
+   },
+   "Iron Ingot":{
+      "ID":265,
+      "Damage":0
+   },
+   "Gold Ingot":{
+      "ID":266,
+      "Damage":0
+   },
+   "Emerald":{
+      "ID":388,
+      "Damage":0
+   },
+   "Stick":{
+      "ID":280,
+      "Damage":0
+   },
+   "Bowl":{
+      "ID":281,
+      "Damage":0
+   },
+   "String":{
+      "ID":287,
+      "Damage":0
+   },
+   "Feather":{
+      "ID":288,
+      "Damage":0
+   },
+   "Flint":{
+      "ID":318,
+      "Damage":0
+   },
+   "Leather":{
+      "ID":334,
+      "Damage":0
+   },
+   "Clay":{
+      "ID":337,
+      "Damage":0
+   },
+   "Sugar":{
+      "ID":353,
+      "Damage":0
+   },
+   "Nether Quartz":{
+      "ID":406,
+      "Damage":0
+   },
+   "Paper":{
+      "ID":339,
+      "Damage":0
+   },
+   "Book":{
+      "ID":340,
+      "Damage":0
+   },
+   "Arrow":{
+      "ID":262,
+      "Damage":0
+   },
+   "Bone":{
+      "ID":352,
+      "Damage":0
+   },
+   "Sugar Cane":{
+      "ID":338,
+      "Damage":0
+   },
+   "Wheat":{
+      "ID":296,
+      "Damage":0
+   },
+   "Arrow of Night Vision (0:22)":{
+      "ID":262,
+      "Damage":6
+   },
+   "Arrow of Night Vision (1:00)":{
+      "ID":262,
+      "Damage":7
+   },
+   "Arrow of Invisibility (0:22)":{
+      "ID":262,
+      "Damage":8
+   },
+   "Arrow of Invisibility (1:00)":{
+      "ID":262,
+      "Damage":9
+   },
+   "Arrow of Leaping (0:22)":{
+      "ID":262,
+      "Damage":10
+   },
+   "Arrow of Leaping (1:00)":{
+      "ID":262,
+      "Damage":11
+   },
+   "Arrow of Leaping II (0:11)":{
+      "ID":262,
+      "Damage":12
+   },
+   "Arrow of Fire Resistance (0:22)":{
+      "ID":262,
+      "Damage":13
+   },
+   "Arrow of Fire Resistance (1:00)":{
+      "ID":262,
+      "Damage":14
+   },
+   "Arrow of Swiftness (0:22)":{
+      "ID":262,
+      "Damage":15
+   },
+   "Arrow of Swiftness (1:00)":{
+      "ID":262,
+      "Damage":16
+   },
+   "Arrow of Swiftness II (0:11)":{
+      "ID":262,
+      "Damage":17
+   },
+   "Arrow of Slowness (0:11)":{
+      "ID":262,
+      "Damage":18
+   },
+   "Arrow of Slowness (0:30)":{
+      "ID":262,
+      "Damage":19
+   },
+   "Arrow of Water Breathing (0:22)":{
+      "ID":262,
+      "Damage":20
+   },
+   "Arrow of Water Breathing (1:00)":{
+      "ID":262,
+      "Damage":21
+   },
+   "Arrow of Healing":{
+      "ID":262,
+      "Damage":22
+   },
+   "Arrow of Healing II":{
+      "ID":262,
+      "Damage":23
+   },
+   "Arrow of Harming":{
+      "ID":262,
+      "Damage":24
+   },
+   "Arrow of Harming II":{
+      "ID":262,
+      "Damage":25
+   },
+   "Arrow of Poison (0:05)":{
+      "ID":262,
+      "Damage":26
+   },
+   "Arrow of Poison (0:15)":{
+      "ID":262,
+      "Damage":27
+   },
+   "Arrow of Poison II (0:02)":{
+      "ID":262,
+      "Damage":28
+   },
+   "Arrow of Regeneration (0:05)":{
+      "ID":262,
+      "Damage":29
+   },
+   "Arrow of Regeneration (0:15)":{
+      "ID":262,
+      "Damage":30
+   },
+   "Arrow of Regeneration II (0:02)":{
+      "ID":262,
+      "Damage":31
+   },
+   "Arrow of Strength (0:22)":{
+      "ID":262,
+      "Damage":32
+   },
+   "Arrow of Strength (1:00)":{
+      "ID":262,
+      "Damage":33
+   },
+   "Arrow of Strength II (0:11)":{
+      "ID":262,
+      "Damage":34
+   },
+   "Arrow of Weakness (0:11)":{
+      "ID":262,
+      "Damage":35
+   },
+   "Arrow of Weakness (0:30)":{
+      "ID":262,
+      "Damage":36
+   },
+   "Wheat Seeds":{
+      "ID":295,
+      "Damage":0
+   },
+   "Pumpkin Seeds":{
+      "ID":361,
+      "Damage":0
+   },
+   "Melon Seeds":{
+      "ID":362,
+      "Damage":0
+   },
+   "Beetroot Seeds":{
+      "ID":458,
+      "Damage":0
+   },
+   "Egg":{
+      "ID":344,
+      "Damage":0
+   },
+   "Apple":{
+      "ID":260,
+      "Damage":0
+   },
+   "Golden Apple":{
+      "ID":322,
+      "Damage":0
+   },
+   "Enchanted Golden Apple":{
+      "ID":466,
+      "Damage":0
+   },
+   "Raw Fish":{
+      "ID":349,
+      "Damage":0
+   },
+   "Raw Salmon":{
+      "ID":460,
+      "Damage":1
+   },
+   "Clownfish":{
+      "ID":461,
+      "Damage":2
+   },
+   "Pufferfish":{
+      "ID":462,
+      "Damage":3
+   },
+   "Cooked Fish":{
+      "ID":350,
+      "Damage":0
+   },
+   "Cooked Salmon":{
+      "ID":463,
+      "Damage":1
+   },
+   "Rotten Flesh":{
+      "ID":367,
+      "Damage":0
+   },
+   "Mushroom Stew":{
+      "ID":282,
+      "Damage":0
+   },
+   "Bread":{
+      "ID":297,
+      "Damage":0
+   },
+   "Raw Porkchop":{
+      "ID":319,
+      "Damage":0
+   },
+   "Cooked Porkchop":{
+      "ID":320,
+      "Damage":0
+   },
+   "Raw Chicken":{
+      "ID":365,
+      "Damage":0
+   },
+   "Cooked Chicken":{
+      "ID":366,
+      "Damage":0
+   },
+   "Raw Mutton":{
+      "ID":423,
+      "Damage":0
+   },
+   "Cooked Mutton":{
+      "ID":424,
+      "Damage":0
+   },
+   "Raw Beef":{
+      "ID":363,
+      "Damage":0
+   },
+   "Steak":{
+      "ID":364,
+      "Damage":0
+   },
+   "Melon":{
+      "ID":360,
+      "Damage":0
+   },
+   "Carrot":{
+      "ID":391,
+      "Damage":0
+   },
+   "Potato":{
+      "ID":392,
+      "Damage":0
+   },
+   "Baked Potato":{
+      "ID":393,
+      "Damage":0
+   },
+   "Poisonous Potato":{
+      "ID":394,
+      "Damage":0
+   },
+   "Beetroot":{
+      "ID":457,
+      "Damage":0
+   },
+   "Cookie":{
+      "ID":357,
+      "Damage":0
+   },
+   "Pumpkin Pie":{
+      "ID":400,
+      "Damage":0
+   },
+   "Raw Rabbit":{
+      "ID":411,
+      "Damage":0
+   },
+   "Cooked Rabbit":{
+      "ID":412,
+      "Damage":0
+   },
+   "Rabbit Stew":{
+      "ID":413,
+      "Damage":0
+   },
+   "Magma Cream":{
+      "ID":378,
+      "Damage":0
+   },
+   "Blaze Rod":{
+      "ID":369,
+      "Damage":0
+   },
+   "Gold Nugget":{
+      "ID":371,
+      "Damage":0
+   },
+   "Golden Carrot":{
+      "ID":396,
+      "Damage":0
+   },
+   "Glistering Melon":{
+      "ID":382,
+      "Damage":0
+   },
+   "Rabbit's Foot":{
+      "ID":414,
+      "Damage":0
+   },
+   "Ghast Tear":{
+      "ID":370,
+      "Damage":0
+   },
+   "Slimeball":{
+      "ID":341,
+      "Damage":0
+   },
+   "Blaze Powder":{
+      "ID":377,
+      "Damage":0
+   },
+   "Nether Wart":{
+      "ID":372,
+      "Damage":0
+   },
+   "Gunpowder":{
+      "ID":289,
+      "Damage":0
+   },
+   "Glowstone Dust":{
+      "ID":348,
+      "Damage":0
+   },
+   "Spider Eye":{
+      "ID":375,
+      "Damage":0
+   },
+   "Fermented Spider Eye":{
+      "ID":376,
+      "Damage":0
+   },
+   "Carrot on a Stick":{
+      "ID":398,
+      "Damage":0
+   },
+   "Bottle o' Enchanting":{
+      "ID":384,
+      "Damage":0
+   },
+   "Enchanted Book Protection I":{
+	  "ID":403,
+	  "Damage":0,
+	  "Enchantments":{
+		"armor_protection": 0
+	  }
+   },
+   "Inc Sac":{
+      "ID":351,
+      "Damage":0
+   },
+   "Grey Dye":{
+      "ID":351,
+      "Damage":8
+   },
+   "Light Grey Dye":{
+      "ID":351,
+      "Damage":7
+   },
+   "Bone Meal":{
+      "ID":351,
+      "Damage":15
+   },
+   "Light Blue Dye":{
+      "ID":351,
+      "Damage":12
+   },
+   "Orange Dye":{
+      "ID":351,
+      "Damage":14
+   },
+   "Rose Red":{
+      "ID":351,
+      "Damage":1
+   },
+   "Lapis Lazuli":{
+      "ID":351,
+      "Damage":4
+   },
+   "Purple Dye":{
+      "ID":351,
+      "Damage":5
+   },
+   "Magenta Dye":{
+      "ID":351,
+      "Damage":13
+   },
+   "Pink Dye":{
+      "ID":351,
+      "Damage":9
+   },
+   "Cocoa Beans":{
+      "ID":351,
+      "Damage":3
+   },
+   "Dandelion Yellow":{
+      "ID":351,
+      "Damage":11
+   },
+   "Lime Dye":{
+      "ID":351,
+      "Damage":10
+   },
+   "Cactus Green":{
+      "ID":351,
+      "Damage":2
+   },
+   "Cyan Dye":{
+      "ID":351,
+      "Damage":6
+   },
+   "Glass Bottle":{
+      "ID":374,
+      "Damage":0
+   },
+   "Water Bottle":{
+      "ID":373,
+      "Damage":0
+   },
+   "Mundane Potion":{
+      "ID":373,
+      "Damage":1
+   },
+   "Mundane Potion (Extended)":{
+      "ID":373,
+      "Damage":2
+   },
+   "Thick Potion":{
+      "ID":373,
+      "Damage":3
+   },
+   "Awkward Potion":{
+      "ID":373,
+      "Damage":4
+   },
+   "Potion of Night Vision (3:00)":{
+      "ID":373,
+      "Damage":5
+   },
+   "Potion of Night Vision (8:00)":{
+      "ID":373,
+      "Damage":6
+   },
+   "Potion of Invisibility (3:00)":{
+      "ID":373,
+      "Damage":7
+   },
+   "Potion of Invisibility (8:00)":{
+      "ID":373,
+      "Damage":8
+   },
+   "Potion of Leaping (3:00)":{
+      "ID":373,
+      "Damage":9
+   },
+   "Potion of Leaping (8:00)":{
+      "ID":373,
+      "Damage":10
+   },
+   "Potion of Leaping II (1:30)":{
+      "ID":373,
+      "Damage":11
+   },
+   "Potion of Fire Resistance (3:00)":{
+      "ID":373,
+      "Damage":12
+   },
+   "Potion of Fire Resistance (8:00)":{
+      "ID":373,
+      "Damage":13
+   },
+   "Potion of Swiftness (3:00)":{
+      "ID":373,
+      "Damage":14
+   },
+   "Potion of Swiftness (8:00)":{
+      "ID":373,
+      "Damage":15
+   },
+   "Potion of Swiftness II (1:30)":{
+      "ID":373,
+      "Damage":16
+   },
+   "Potion of Slowness (1:30)":{
+      "ID":373,
+      "Damage":17
+   },
+   "Potion of Slowness (4:00)":{
+      "ID":373,
+      "Damage":18
+   },
+   "Potion of Water Breathing (3:00)":{
+      "ID":373,
+      "Damage":19
+   },
+   "Potion of Water Breathing (8:00)":{
+      "ID":373,
+      "Damage":20
+   },
+   "Potion of Healing":{
+      "ID":373,
+      "Damage":21
+   },
+   "Potion of Healing II":{
+      "ID":373,
+      "Damage":22
+   },
+   "Potion of Harming":{
+      "ID":373,
+      "Damage":23
+   },
+   "Potion of Harming II":{
+      "ID":373,
+      "Damage":24
+   },
+   "Potion of Poison (0:45)":{
+      "ID":373,
+      "Damage":25
+   },
+   "Potion of Poison (2:00)":{
+      "ID":373,
+      "Damage":26
+   },
+   "Potion of Poison II (0:22)":{
+      "ID":373,
+      "Damage":27
+   },
+   "Potion of Regeneration (0:45)":{
+      "ID":373,
+      "Damage":28
+   },
+   "Potion of Regeneration (2:00)":{
+      "ID":373,
+      "Damage":29
+   },
+   "Potion of Regeneration II (0:22)":{
+      "ID":373,
+      "Damage":30
+   },
+   "Potion of Strength (3:00)":{
+      "ID":373,
+      "Damage":31
+   },
+   "Potion of Strength (8:00)":{
+      "ID":373,
+      "Damage":32
+   },
+   "Potion of Strength II (1:30)":{
+      "ID":373,
+      "Damage":33
+   },
+   "Potion of Weakness (1:30)":{
+      "ID":373,
+      "Damage":34
+   },
+   "Potion of Weakness (4:00)":{
+      "ID":373,
+      "Damage":35
+   },
+   "Splash Potion of Night Vision (3:00)":{
+      "ID":438,
+      "Damage":5
+   },
+   "Splash Potion of Night Vision (8:00)":{
+      "ID":438,
+      "Damage":6
+   },
+   "Splash Potion of Invisibility (3:00)":{
+      "ID":438,
+      "Damage":7
+   },
+   "Splash Potion of Invisibility (8:00)":{
+      "ID":438,
+      "Damage":8
+   },
+   "Splash Potion of Leaping (3:00)":{
+      "ID":438,
+      "Damage":9
+   },
+   "Splash Potion of Leaping (8:00)":{
+      "ID":438,
+      "Damage":10
+   },
+   "Splash Potion of Leaping II (1:30)":{
+      "ID":438,
+      "Damage":11
+   },
+   "Splash Potion of Fire Resistance (3:00)":{
+      "ID":438,
+      "Damage":12
+   },
+   "Splash Potion of Fire Resistance (8:00)":{
+      "ID":438,
+      "Damage":13
+   },
+   "Splash Potion of Swiftness (3:00)":{
+      "ID":438,
+      "Damage":14
+   },
+   "Splash Potion of Swiftness (8:00)":{
+      "ID":438,
+      "Damage":15
+   },
+   "Splash Potion of Swiftness II (1:30)":{
+      "ID":438,
+      "Damage":16
+   },
+   "Splash Potion of Slowness (1:30)":{
+      "ID":438,
+      "Damage":17
+   },
+   "Splash Potion of Slowness (4:00)":{
+      "ID":438,
+      "Damage":18
+   },
+   "Splash Potion of Water Breathing (3:00)":{
+      "ID":438,
+      "Damage":19
+   },
+   "Splash Potion of Water Breathing (8:00)":{
+      "ID":438,
+      "Damage":20
+   },
+   "Splash Potion of Healing":{
+      "ID":438,
+      "Damage":21
+   },
+   "Splash Potion of Healing II":{
+      "ID":438,
+      "Damage":22
+   },
+   "Splash Potion of Harming":{
+      "ID":438,
+      "Damage":23
+   },
+   "Splash Potion of Harming II":{
+      "ID":438,
+      "Damage":24
+   },
+   "Splash Potion of Poison (0:45)":{
+      "ID":438,
+      "Damage":25
+   },
+   "Splash Potion of Poison (2:00)":{
+      "ID":438,
+      "Damage":26
+   },
+   "Splash Potion of Poison II (0:22)":{
+      "ID":438,
+      "Damage":27
+   },
+   "Splash Potion of Regeneration (0:45)":{
+      "ID":438,
+      "Damage":28
+   },
+   "Splash Potion of Regeneration (2:00)":{
+      "ID":438,
+      "Damage":29
+   },
+   "Splash Potion of Regeneration II (0:22)":{
+      "ID":438,
+      "Damage":30
+   },
+   "Splash Potion of Strength (3:00)":{
+      "ID":438,
+      "Damage":31
+   },
+   "Splash Potion of Strength (8:00)":{
+      "ID":438,
+      "Damage":32
+   },
+   "Splash Potion of Strength II (1:30)":{
+      "ID":438,
+      "Damage":33
+   },
+   "Splash Potion of Weakness (1:30)":{
+      "ID":438,
+      "Damage":34
+   },
+   "Splash Potion of Weakness (4:00)":{
+      "ID":438,
+      "Damage":35
+   }
+}

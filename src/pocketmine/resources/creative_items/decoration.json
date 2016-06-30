@@ -1,0 +1,570 @@
+{
+   "Cobblestone Wall":{
+      "ID":139,
+      "Damage":0
+   },
+   "Mossy Cobblestone Wall":{
+      "ID":139,
+      "Damage":1
+   },
+   "Lily Pad":{
+      "ID":111,
+      "Damage":0
+   },
+   "Gold Block":{
+      "ID":41,
+      "Damage":0
+   },
+   "Iron Block":{
+      "ID":42,
+      "Damage":0
+   },
+   "Diamond Block":{
+      "ID":57,
+      "Damage":0
+   },
+   "Lapis Lazuli Block":{
+      "ID":22,
+      "Damage":0
+   },
+   "Coal Block":{
+      "ID":173,
+      "Damage":0
+   },
+   "Emerald Block":{
+      "ID":133,
+      "Damage":0
+   },
+   "Redstone Block":{
+      "ID":152,
+      "Damage":0
+   },
+   "Snow Layer":{
+      "ID":78,
+      "Damage":0
+   },
+   "Glass":{
+      "ID":20,
+      "Damage":0
+   },
+   "Glowstone":{
+      "ID":89,
+      "Damage":0
+   },
+   "Vines":{
+      "ID":106,
+      "Damage":0
+   },
+   "Ladder":{
+      "ID":65,
+      "Damage":0
+   },
+   "Sponge":{
+      "ID":19,
+      "Damage":0
+   },
+   "Glass Pane":{
+      "ID":102,
+      "Damage":0
+   },
+   "Oak Door":{
+      "ID":324,
+      "Damage":1
+   },
+   "Spruce Door":{
+      "ID":427,
+      "Damage":2
+   },
+   "Birch Door":{
+      "ID":428,
+      "Damage":3
+   },
+   "Jungle Door":{
+      "ID":429,
+      "Damage":4
+   },
+   "Acacia Door":{
+      "ID":430,
+      "Damage":5
+   },
+   "Dark Oak Door":{
+      "ID":431,
+      "Damage":6
+   },
+   "Iron Door":{
+      "ID":330,
+      "Damage":0
+   },
+   "Wooden Trapdoor":{
+      "ID":96,
+      "Damage":0
+   },
+   "Iron Trapdoor":{
+      "ID":167,
+      "Damage":0
+   },
+   "Oak Fence":{
+      "ID":85,
+      "Damage":0
+   },
+   "Spruce Fence":{
+      "ID":85,
+      "Damage":1
+   },
+   "Birch Fence":{
+      "ID":85,
+      "Damage":2
+   },
+   "Jungle Fence":{
+      "ID":85,
+      "Damage":3
+   },
+   "Acacia Fence":{
+      "ID":85,
+      "Damage":4
+   },
+   "Dark Oak Fence":{
+      "ID":85,
+      "Damage":5
+   },
+   "Nether Brick Fence":{
+      "ID":113,
+      "Damage":0
+   },
+   "Oak Fence Gate":{
+      "ID":107,
+      "Damage":0
+   },
+   "Spruce Fence Gate":{
+      "ID":183,
+      "Damage":0
+   },
+   "Birch Fence Gate":{
+      "ID":184,
+      "Damage":0
+   },
+   "Jungle Fence Gate":{
+      "ID":185,
+      "Damage":0
+   },
+   "Acacia Fence Gate":{
+      "ID":187,
+      "Damage":0
+   },
+   "Dark Oak Fence Gate":{
+      "ID":186,
+      "Damage":0
+   },
+   "Iron Bars":{
+      "ID":101,
+      "Damage":0
+   },
+   "Bed":{
+      "ID":355,
+      "Damage":0
+   },
+   "Bookshelf":{
+      "ID":47,
+      "Damage":0
+   },
+   "Sign":{
+      "ID":323,
+      "Damage":0
+   },
+   "Painting":{
+      "ID":321,
+      "Damage":0
+   },
+   "Item Frame":{
+      "ID":389,
+      "Damage":0
+   },
+   "Crafting Table":{
+      "ID":58,
+      "Damage":0
+   },
+   "Stonecutter":{
+      "ID":245,
+      "Damage":0
+   },
+   "Chest":{
+      "ID":54,
+      "Damage":0
+   },
+   "Trapped Chest":{
+      "ID":146,
+      "Damage":0
+   },
+   "Furnace":{
+      "ID":61,
+      "Damage":0
+   },
+   "Brewing Stand":{
+      "ID":379,
+      "Damage":0
+   },
+   "Cauldron":{
+      "ID":380,
+      "Damage":0
+   },
+   "Note Block":{
+      "ID":25,
+      "Damage":0
+   },
+   "End Portal Frame":{
+      "ID":120,
+      "Damage":0
+   },
+   "Anvil":{
+      "ID":145,
+      "Damage":0
+   },
+   "Slightly Damaged Anvil":{
+      "ID":145,
+      "Damage":4
+   },
+   "Very Damaged Anvil":{
+      "ID":145,
+      "Damage":8
+   },
+   "Dandelion":{
+      "ID":37,
+      "Damage":0
+   },
+   "Poppy":{
+      "ID":38,
+      "Damage":0
+   },
+   "Blue Orchid":{
+      "ID":38,
+      "Damage":1
+   },
+   "Allium":{
+      "ID":38,
+      "Damage":2
+   },
+   "Azure Bluet":{
+      "ID":38,
+      "Damage":3
+   },
+   "Red Tulip":{
+      "ID":38,
+      "Damage":4
+   },
+   "Orange Tulip":{
+      "ID":38,
+      "Damage":5
+   },
+   "White Tulip":{
+      "ID":38,
+      "Damage":6
+   },
+   "Pink Tulip":{
+      "ID":38,
+      "Damage":7
+   },
+   "Oxeye Daisy":{
+      "ID":38,
+      "Damage":8
+   },
+   "Sunflower":{
+      "ID":175,
+      "Damage":0
+   },
+   "Lilac":{
+      "ID":175,
+      "Damage":1
+   },
+   "Double Tallgrass":{
+      "ID":175,
+      "Damage":2
+   },
+   "Large Fern":{
+      "ID":175,
+      "Damage":3
+   },
+   "Rose Bush":{
+      "ID":175,
+      "Damage":4
+   },
+   "Peony":{
+      "ID":175,
+      "Damage":5
+   },
+   "Brown Mushroom":{
+      "ID":39,
+      "Damage":0
+   },
+   "Red Mushroom":{
+      "ID":40,
+      "Damage":0
+   },
+   "Huge Mushroom Cap":{
+      "ID":99,
+      "Damage":14
+   },
+   "Huge Red Mushroom Cap":{
+      "ID":100,
+      "Damage":14
+   },
+   "Mushroom Block":{
+      "ID":99,
+      "Damage":0
+   },
+   "Huge Mushroom Stem":{
+      "ID":99,
+      "Damage":15
+   },
+   "Cactus":{
+      "ID":81,
+      "Damage":0
+   },
+   "Melon Block":{
+      "ID":103,
+      "Damage":0
+   },
+   "Pumpkin":{
+      "ID":86,
+      "Damage":0
+   },
+   "Jack o'Lantern":{
+      "ID":91,
+      "Damage":0
+   },
+   "Cobweb":{
+      "ID":30,
+      "Damage":0
+   },
+   "Hay Bale":{
+      "ID":170,
+      "Damage":0
+   },
+   "Tall Grass":{
+      "ID":31,
+      "Damage":1
+   },
+   "Fern":{
+      "ID":31,
+      "Damage":2
+   },
+   "Dead Bush":{
+      "ID":32,
+      "Damage":0
+   },
+   "Oak Sapling":{
+      "ID":6,
+      "Damage":0
+   },
+   "Spruce Sapling":{
+      "ID":6,
+      "Damage":1
+   },
+   "Birch Sapling":{
+      "ID":6,
+      "Damage":2
+   },
+   "Jungle Sapling":{
+      "ID":6,
+      "Damage":3
+   },
+   "Acacia Sapling":{
+      "ID":6,
+      "Damage":4
+   },
+   "Dark Oak Sapling":{
+      "ID":6,
+      "Damage":5
+   },
+   "Oak Leaves":{
+      "ID":18,
+      "Damage":0
+   },
+   "Spruce Leaves":{
+      "ID":18,
+      "Damage":1
+   },
+   "Birch Leaves":{
+      "ID":18,
+      "Damage":2
+   },
+   "Jungle Leaves":{
+      "ID":18,
+      "Damage":3
+   },
+   "Acacia Leaves":{
+      "ID":161,
+      "Damage":0
+   },
+   "Dark Oak Leaves":{
+      "ID":161,
+      "Damage":1
+   },
+   "Cake":{
+      "ID":354,
+      "Damage":0
+   },
+   "Skeleton Skull":{
+      "ID":397,
+      "Damage":0
+   },
+   "Wither Skeleton Skull":{
+      "ID":397,
+      "Damage":1
+   },
+   "Zombie Head":{
+      "ID":397,
+      "Damage":2
+   },
+   "Head":{
+      "ID":397,
+      "Damage":3
+   },
+   "Creeper Head":{
+      "ID":397,
+      "Damage":4
+   },
+   "Flower Pot":{
+      "ID":390,
+      "Damage":0
+   },
+   "Monster Spawner":{
+      "ID":52,
+      "Damage":0
+   },
+   "Enchanting Table":{
+      "ID":116,
+      "Damage":0
+   },
+   "Slime Block":{
+      "ID":165,
+      "Damage":0
+   },
+   "White Wool":{
+      "ID":35,
+      "Damage":0
+   },
+   "Light Gray Wool":{
+      "ID":35,
+      "Damage":8
+   },
+   "Gray Wool":{
+      "ID":35,
+      "Damage":7
+   },
+   "Black Wool":{
+      "ID":35,
+      "Damage":15
+   },
+   "Brown Wool":{
+      "ID":35,
+      "Damage":12
+   },
+   "Red Wool":{
+      "ID":35,
+      "Damage":14
+   },
+   "Orange Wool":{
+      "ID":35,
+      "Damage":1
+   },
+   "Yellow Wool":{
+      "ID":35,
+      "Damage":4
+   },
+   "Lime Wool":{
+      "ID":35,
+      "Damage":5
+   },
+   "Green Wool":{
+      "ID":35,
+      "Damage":13
+   },
+   "Cyan Wool":{
+      "ID":35,
+      "Damage":9
+   },
+   "Light Blue Wool":{
+      "ID":35,
+      "Damage":3
+   },
+   "Blue Wool":{
+      "ID":35,
+      "Damage":11
+   },
+   "Purple Wool":{
+      "ID":35,
+      "Damage":10
+   },
+   "Magenta Wool":{
+      "ID":35,
+      "Damage":2
+   },
+   "Pink Wool":{
+      "ID":35,
+      "Damage":6
+   },
+   "White Carpet":{
+      "ID":171,
+      "Damage":0
+   },
+   "Light Gray Carpet":{
+      "ID":171,
+      "Damage":8
+   },
+   "Gray Carpet":{
+      "ID":171,
+      "Damage":7
+   },
+   "Black Carpet":{
+      "ID":171,
+      "Damage":15
+   },
+   "Brown Carpet":{
+      "ID":171,
+      "Damage":12
+   },
+   "Red Carpet":{
+      "ID":171,
+      "Damage":14
+   },
+   "Orange Carpet":{
+      "ID":171,
+      "Damage":1
+   },
+   "Yellow Carpet":{
+      "ID":171,
+      "Damage":4
+   },
+   "Lime Carpet":{
+      "ID":171,
+      "Damage":5
+   },
+   "Green Carpet":{
+      "ID":171,
+      "Damage":13
+   },
+   "Cyan Carpet":{
+      "ID":171,
+      "Damage":9
+   },
+   "Light Blue Carpet":{
+      "ID":171,
+      "Damage":3
+   },
+   "Blue Carpet":{
+      "ID":171,
+      "Damage":11
+   },
+   "Purple Carpet":{
+      "ID":171,
+      "Damage":10
+   },
+   "Magenta Carpet":{
+      "ID":171,
+      "Damage":2
+   },
+   "Pink Carpet":{
+      "ID":171,
+      "Damage":6
+   }
+}

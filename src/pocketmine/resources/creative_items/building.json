@@ -1,0 +1,418 @@
+{
+   "Cobblestone":{
+      "ID":4,
+      "Damage":0
+   },
+   "Stone Bricks":{
+      "ID":98,
+      "Damage":0
+   },
+   "Mossy Stone Bricks":{
+      "ID":98,
+      "Damage":1
+   },
+   "Cracked Stone Bricks":{
+      "ID":98,
+      "Damage":2
+   },
+   "Chiseled Stone Bricks":{
+      "ID":98,
+      "Damage":3
+   },
+   "Moss Stone":{
+      "ID":48,
+      "Damage":0
+   },
+   "Oak Wood Planks":{
+      "ID":5,
+      "Damage":0
+   },
+   "Spruce Wood Planks":{
+      "ID":5,
+      "Damage":1
+   },
+   "Birch Wood Planks":{
+      "ID":5,
+      "Damage":2
+   },
+   "Jungle Wood Planks":{
+      "ID":5,
+      "Damage":3
+   },
+   "Acacia Wood Planks":{
+      "ID":5,
+      "Damage":4
+   },
+   "Dark Oak Wood Planks":{
+      "ID":5,
+      "Damage":5
+   },
+   "Bricks":{
+      "ID":45,
+      "Damage":0
+   },
+   "Stone":{
+      "ID":1,
+      "Damage":0
+   },
+   "Granite":{
+      "ID":1,
+      "Damage":1
+   },
+   "Polished Granite":{
+      "ID":1,
+      "Damage":2
+   },
+   "Diorite":{
+      "ID":1,
+      "Damage":3
+   },
+   "Polished Diorite":{
+      "ID":1,
+      "Damage":4
+   },
+   "Andesite":{
+      "ID":1,
+      "Damage":5
+   },
+   "Polished Andesite":{
+      "ID":1,
+      "Damage":6
+   },
+   "Dirt":{
+      "ID":3,
+      "Damage":0
+   },
+   "Podzol":{
+      "ID":243,
+      "Damage":0
+   },
+   "Grass":{
+      "ID":2,
+      "Damage":0
+   },
+   "Mycelium":{
+      "ID":110,
+      "Damage":0
+   },
+   "Clay Block":{
+      "ID":82,
+      "Damage":0
+   },
+   "Hardened Clay":{
+      "ID":172,
+      "Damage":0
+   },
+   "White Stained Clay":{
+      "ID":159,
+      "Damage":0
+   },
+   "Orange Stained Clay":{
+      "ID":159,
+      "Damage":1
+   },
+   "Magenta Stained Clay":{
+      "ID":159,
+      "Damage":2
+   },
+   "Light Blue Stained Clay":{
+      "ID":159,
+      "Damage":3
+   },
+   "Yellow Stained Clay":{
+      "ID":159,
+      "Damage":4
+   },
+   "Lime Stained Clay":{
+      "ID":159,
+      "Damage":5
+   },
+   "Pink Stained Clay":{
+      "ID":159,
+      "Damage":6
+   },
+   "Gray Stained Clay":{
+      "ID":159,
+      "Damage":7
+   },
+   "Light Gray Stained Clay":{
+      "ID":159,
+      "Damage":8
+   },
+   "Cyan Stained Clay":{
+      "ID":159,
+      "Damage":9
+   },
+   "Purple Stained Clay":{
+      "ID":159,
+      "Damage":10
+   },
+   "Blue Stained Clay":{
+      "ID":159,
+      "Damage":11
+   },
+   "Brown Stained Clay":{
+      "ID":159,
+      "Damage":12
+   },
+   "Green Stained Clay":{
+      "ID":159,
+      "Damage":13
+   },
+   "Red Stained Clay":{
+      "ID":159,
+      "Damage":14
+   },
+   "Black Stained Clay":{
+      "ID":159,
+      "Damage":15
+   },
+   "Sandstone":{
+      "ID":24,
+      "Damage":0
+   },
+   "Chiseled Sandstone":{
+      "ID":24,
+      "Damage":1
+   },
+   "Smooth Sandstone":{
+      "ID":24,
+      "Damage":2
+   },
+   "Red Sandstone":{
+      "ID":179,
+      "Damage":0
+   },
+   "Chiseled Red Sandstone":{
+      "ID":179,
+      "Damage":1
+   },
+   "Smooth Red Sandstone":{
+      "ID":179,
+      "Damage":2
+   },
+   "Sand":{
+      "ID":12,
+      "Damage":0
+   },
+   "Red Sand":{
+      "ID":12,
+      "Damage":1
+   },
+   "Gravel":{
+      "ID":13,
+      "Damage":0
+   },
+   "Oak Wood":{
+      "ID":17,
+      "Damage":0
+   },
+   "Spruce Wood":{
+      "ID":17,
+      "Damage":1
+   },
+   "Birch Wood":{
+      "ID":17,
+      "Damage":2
+   },
+   "Jungle Wood":{
+      "ID":17,
+      "Damage":3
+   },
+   "Acacia Wood":{
+      "ID":162,
+      "Damage":0
+   },
+   "Dark Oak Wood":{
+      "ID":162,
+      "Damage":1
+   },
+   "Nether Bricks":{
+      "ID":112,
+      "Damage":0
+   },
+   "Netherrack":{
+      "ID":87,
+      "Damage":0
+   },
+   "Soul Sand":{
+      "ID":88,
+      "Damage":0
+   },
+   "Bedrock":{
+      "ID":7,
+      "Damage":0
+   },
+   "Cobblestone Stairs":{
+      "ID":67,
+      "Damage":0
+   },
+   "Oak Wood Stairs":{
+      "ID":53,
+      "Damage":0
+   },
+   "Spruce Wood Stairs":{
+      "ID":134,
+      "Damage":0
+   },
+   "Birch Wood Stairs":{
+      "ID":135,
+      "Damage":0
+   },
+   "Jungle Wood Stairs":{
+      "ID":136,
+      "Damage":0
+   },
+   "Acacia Wood Stairs":{
+      "ID":163,
+      "Damage":0
+   },
+   "Dark Oak Wood Stairs":{
+      "ID":164,
+      "Damage":0
+   },
+   "Brick Stairs":{
+      "ID":108,
+      "Damage":0
+   },
+   "Sandstone Stairs":{
+      "ID":128,
+      "Damage":0
+   },
+   "Red Sandstone Stairs":{
+      "ID":180,
+      "Damage":0
+   },
+   "Stone Brick Stairs":{
+      "ID":109,
+      "Damage":0
+   },
+   "Nether Bricks Stairs":{
+      "ID":114,
+      "Damage":0
+   },
+   "Quartz Stairs":{
+      "ID":156,
+      "Damage":0
+   },
+   "Stone Slab":{
+      "ID":44,
+      "Damage":0
+   },
+   "Cobblestone Slab":{
+      "ID":44,
+      "Damage":3
+   },
+   "Oak Wooden Slab":{
+      "ID":158,
+      "Damage":0
+   },
+   "Spruce Wooden Slab":{
+      "ID":158,
+      "Damage":1
+   },
+   "Birch Wooden Slab":{
+      "ID":158,
+      "Damage":2
+   },
+   "Jungle Wooden Slab":{
+      "ID":158,
+      "Damage":3
+   },
+   "Acacia Wooden Slab":{
+      "ID":158,
+      "Damage":4
+   },
+   "Dark Oak Wooden Slab":{
+      "ID":158,
+      "Damage":5
+   },
+   "Bricks Slab":{
+      "ID":44,
+      "Damage":4
+   },
+   "Sandstone Slab":{
+      "ID":44,
+      "Damage":1
+   },
+   "Red Sandstone Slab":{
+      "ID":182,
+      "Damage":0
+   },
+   "Stone Brick Slab":{
+      "ID":44,
+      "Damage":5
+   },
+   "Quartz Slab":{
+      "ID":44,
+      "Damage":6
+   },
+   "Nether Brick Slab":{
+      "ID":44,
+      "Damage":7
+   },
+   "Quartz Block":{
+      "ID":155,
+      "Damage":0
+   },
+   "Quartz Pillar":{
+      "ID":155,
+      "Damage":2
+   },
+   "Chiseled Quartz Block":{
+      "ID":155,
+      "Damage":1
+   },
+   "Coal Ore":{
+      "ID":16,
+      "Damage":0
+   },
+   "Iron Ore":{
+      "ID":15,
+      "Damage":0
+   },
+   "Gold Ore":{
+      "ID":14,
+      "Damage":0
+   },
+   "Diamond Ore":{
+      "ID":56,
+      "Damage":0
+   },
+   "Lapis Lazuli Ore":{
+      "ID":21,
+      "Damage":0
+   },
+   "Redstone Ore":{
+      "ID":73,
+      "Damage":0
+   },
+   "Emerald Ore":{
+      "ID":129,
+      "Damage":0
+   },
+   "Nether Quartz Ore":{
+      "ID":153,
+      "Damage":0
+   },
+   "Obsidian":{
+      "ID":49,
+      "Damage":0
+   },
+   "Ice":{
+      "ID":79,
+      "Damage":0
+   },
+   "Packed Ice":{
+      "ID":174,
+      "Damage":0
+   },
+   "Snow Block":{
+      "ID":80,
+      "Damage":0
+   },
+   "End Stone":{
+      "ID":121,
+      "Damage":0
+   }
+}

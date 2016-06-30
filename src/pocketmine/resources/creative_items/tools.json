@@ -1,0 +1,530 @@
+{
+   "Rail":{
+      "ID":66,
+      "Damage":0
+   },
+   "Powered Rail":{
+      "ID":27,
+      "Damage":0
+   },
+   "Detector Rail":{
+      "ID":28,
+      "Damage":0
+   },
+   "Activator Rail":{
+      "ID":126,
+      "Damage":0
+   },
+   "Torch":{
+      "ID":50,
+      "Damage":0
+   },
+   "Bucket":{
+      "ID":325,
+      "Damage":0
+   },
+   "Milk Bucket":{
+      "ID":325,
+      "Damage":1
+   },
+   "Water Bucket":{
+      "ID":325,
+      "Damage":8
+   },
+   "Lava Bucket":{
+      "ID":325,
+      "Damage":10
+   },
+   "TNT":{
+      "ID":46,
+      "Damage":0
+   },
+   "Lead":{
+      "ID":420,
+      "Damage":0
+   },
+   "Name Tag":{
+      "ID":421,
+      "Damage":0
+   },
+   "Redstone":{
+      "ID":331,
+      "Damage":0
+   },
+   "Bow":{
+      "ID":261,
+      "Damage":0
+   },
+   "Fishing Rod":{
+      "ID":346,
+      "Damage":0
+   },
+   "Flint and Steel":{
+      "ID":259,
+      "Damage":0
+   },
+   "Shears":{
+      "ID":359,
+      "Damage":0
+   },
+   "Clock":{
+      "ID":347,
+      "Damage":0
+   },
+   "Compass":{
+      "ID":345,
+      "Damage":0
+   },
+   "Minecart":{
+      "ID":328,
+      "Damage":0
+   },
+   "Minecart with Chest":{
+      "ID":342,
+      "Damage":0
+   },
+   "Minecart with Hopper":{
+      "ID":408,
+      "Damage":0
+   },
+   "Minecart with TNT":{
+      "ID":407,
+      "Damage":0
+   },
+   "Oak Boat":{
+      "ID":333,
+      "Damage":0
+   },
+   "Spruce Boat":{
+      "ID":333,
+      "Damage":1
+   },
+   "Birch Boat":{
+      "ID":333,
+      "Damage":2
+   },
+   "Jungle Boat":{
+      "ID":333,
+      "Damage":3
+   },
+   "Acacia Boat":{
+      "ID":333,
+      "Damage":4
+   },
+   "Dark Oak Boat":{
+      "ID":333,
+      "Damage":5
+   },
+   "Saddle":{
+      "ID":329,
+      "Damage":0
+   },
+   "Leather Horse Armour":{
+      "ID":416,
+      "Damage":0
+   },
+   "Iron Horse Armour":{
+      "ID":417,
+      "Damage":0
+   },
+   "Gold Horse Armour":{
+      "ID":418,
+      "Damage":0
+   },
+   "Diamond Horse Armour":{
+      "ID":419,
+      "Damage":0
+   },
+   "Spawn Villager":{
+      "ID":383,
+      "Damage":15
+   },
+   "Spawn Chicken":{
+      "ID":383,
+      "Damage":10
+   },
+   "Spawn Cow":{
+      "ID":383,
+      "Damage":11
+   },
+   "Spawn Pig":{
+      "ID":383,
+      "Damage":12
+   },
+   "Spawn Sheep":{
+      "ID":383,
+      "Damage":13
+   },
+   "Spawn Wolf":{
+      "ID":383,
+      "Damage":14
+   },
+   "Spawn Ocelot":{
+      "ID":383,
+      "Damage":22
+   },
+   "Spawn Mooshroom":{
+      "ID":383,
+      "Damage":16
+   },
+   "Spawn Bat":{
+      "ID":383,
+      "Damage":19
+   },
+   "Spawn Rabbit":{
+      "ID":383,
+      "Damage":18
+   },
+   "Spawn Horse":{
+      "ID":383,
+      "Damage":23
+   },
+   "Spawn Donkey":{
+      "ID":383,
+      "Damage":24
+   },
+   "Spawn Mule":{
+      "ID":383,
+      "Damage":25
+   },
+   "Spawn Skeleton Horse":{
+      "ID":383,
+      "Damage":26
+   },
+   "Spawn Zombie Horse":{
+      "ID":383,
+      "Damage":27
+   },
+   "Spawn Creeper":{
+      "ID":383,
+      "Damage":33
+   },
+   "Spawn Enderman":{
+      "ID":383,
+      "Damage":38
+   },
+   "Spawn Silverfish":{
+      "ID":383,
+      "Damage":39
+   },
+   "Spawn Skeleton":{
+      "ID":383,
+      "Damage":34
+   },
+   "Spawn Wither Skeleton":{
+      "ID":383,
+      "Damage":48
+   },
+   "Spawn Stray":{
+      "ID":383,
+      "Damage":46
+   },
+   "Spawn Slime":{
+      "ID":383,
+      "Damage":37
+   },
+   "Spawn Spider":{
+      "ID":383,
+      "Damage":35
+   },
+   "Spawn Zombie":{
+      "ID":383,
+      "Damage":32
+   },
+   "Spawn Zombie Pigman":{
+      "ID":383,
+      "Damage":36
+   },
+   "Spawn Husk":{
+      "ID":383,
+      "Damage":47
+   },
+   "Spawn Squid":{
+      "ID":383,
+      "Damage":17
+   },
+   "Spawn Cave Spider":{
+      "ID":383,
+      "Damage":40
+   },
+   "Spawn Witch":{
+      "ID":383,
+      "Damage":45
+   },
+   "Spawn Magma Cube":{
+      "ID":383,
+      "Damage":42
+   },
+   "Spawn Ghast":{
+      "ID":383,
+      "Damage":41
+   },
+   "Spawn Blaze":{
+      "ID":383,
+      "Damage":43
+   },
+   "Fire Charge":{
+      "ID":385,
+      "Damage":0
+   },
+   "Wooden Sword":{
+      "ID":268,
+      "Damage":0
+   },
+   "Wooden Hoe":{
+      "ID":290,
+      "Damage":0
+   },
+   "Wooden Shovel":{
+      "ID":269,
+      "Damage":0
+   },
+   "Wooden Pickaxe":{
+      "ID":270,
+      "Damage":0
+   },
+   "Wooden Axe":{
+      "ID":271,
+      "Damage":0
+   },
+   "Stone Sword":{
+      "ID":272,
+      "Damage":0
+   },
+   "Stone Hoe":{
+      "ID":291,
+      "Damage":0
+   },
+   "Stone Shovel":{
+      "ID":273,
+      "Damage":0
+   },
+   "Stone Pickaxe":{
+      "ID":274,
+      "Damage":0
+   },
+   "Stone Axe":{
+      "ID":275,
+      "Damage":0
+   },
+   "Iron Sword":{
+      "ID":267,
+      "Damage":0
+   },
+   "Iron Hoe":{
+      "ID":292,
+      "Damage":0
+   },
+   "Iron Shovel":{
+      "ID":256,
+      "Damage":0
+   },
+   "Iron Pickaxe":{
+      "ID":257,
+      "Damage":0
+   },
+   "Iron Axe":{
+      "ID":258,
+      "Damage":0
+   },
+   "Diamond Sword":{
+      "ID":276,
+      "Damage":0
+   },
+   "Diamond Hoe":{
+      "ID":293,
+      "Damage":0
+   },
+   "Diamond Shovel":{
+      "ID":277,
+      "Damage":0
+   },
+   "Diamond Pickaxe":{
+      "ID":278,
+      "Damage":0
+   },
+   "Diamond Axe":{
+      "ID":279,
+      "Damage":0
+   },
+   "Gold Sword":{
+      "ID":283,
+      "Damage":0
+   },
+   "Gold Hoe":{
+      "ID":294,
+      "Damage":0
+   },
+   "Gold Shovel":{
+      "ID":284,
+      "Damage":0
+   },
+   "Gold Pickaxe":{
+      "ID":285,
+      "Damage":0
+   },
+   "Gold Axe":{
+      "ID":286,
+      "Damage":0
+   },
+   "Leather Cap":{
+      "ID":298,
+      "Damage":0
+   },
+   "Leather Tunic":{
+      "ID":299,
+      "Damage":0
+   },
+   "Leather Pants":{
+      "ID":300,
+      "Damage":0
+   },
+   "Leather Boots":{
+      "ID":301,
+      "Damage":0
+   },
+   "Chainmail Helmet":{
+      "ID":302,
+      "Damage":0
+   },
+   "Chain Chestplate":{
+      "ID":303,
+      "Damage":0
+   },
+   "Chain Leggings":{
+      "ID":304,
+      "Damage":0
+   },
+   "Chainmail Boots":{
+      "ID":305,
+      "Damage":0
+   },
+   "Iron Helmet":{
+      "ID":306,
+      "Damage":0
+   },
+   "Iron Chestplate":{
+      "ID":307,
+      "Damage":0
+   },
+   "Iron Leggings":{
+      "ID":308,
+      "Damage":0
+   },
+   "Iron Boots":{
+      "ID":309,
+      "Damage":0
+   },
+   "Diamond Helmet":{
+      "ID":310,
+      "Damage":0
+   },
+   "Diamond Chestplate":{
+      "ID":311,
+      "Damage":0
+   },
+   "Diamond Leggings":{
+      "ID":312,
+      "Damage":0
+   },
+   "Diamond Boots":{
+      "ID":313,
+      "Damage":0
+   },
+   "Gold Helmet":{
+      "ID":314,
+      "Damage":0
+   },
+   "Gold Chestplate":{
+      "ID":315,
+      "Damage":0
+   },
+   "Gold Leggings":{
+      "ID":316,
+      "Damage":0
+   },
+   "Gold Boots":{
+      "ID":317,
+      "Damage":0
+   },
+   "Lever":{
+      "ID":69,
+      "Damage":0
+   },
+   "Redstone Lamp":{
+      "ID":123,
+      "Damage":0
+   },
+   "Redstone Torch":{
+      "ID":76,
+      "Damage":0
+   },
+   "Wooden Pressure Plate":{
+      "ID":72,
+      "Damage":0
+   },
+   "Stone Pressure Plate":{
+      "ID":70,
+      "Damage":0
+   },
+   "Weighted Pressure Plate (Light)":{
+      "ID":147,
+      "Damage":0
+   },
+   "Weighted Pressure Plate (Heavy)":{
+      "ID":148,
+      "Damage":0
+   },
+   "Stone Button":{
+      "ID":77,
+      "Damage":5
+   },
+   "Wooden Button":{
+      "ID":143,
+      "Damage":5
+   },
+   "Daylight Sensor":{
+      "ID":151,
+      "Damage":0
+   },
+   "Tripwire Hook":{
+      "ID":131,
+      "Damage":0
+   },
+   "Redstone Repeater":{
+      "ID":356,
+      "Damage":0
+   },
+   "Redstone Comparator":{
+      "ID":404,
+      "Damage":0
+   },
+   "Dispenser":{
+      "ID":23,
+      "Damage":0
+   },
+   "Dropper":{
+      "ID":125,
+      "Damage":0
+   },
+   "Piston":{
+      "ID":33,
+      "Damage":0
+   },
+   "Sticky Piston":{
+      "ID":29,
+      "Damage":0
+   },
+   "Observer":{
+      "ID":251,
+      "Damage":0
+   },
+   "Hopper":{
+      "ID":410,
+      "Damage":0
+   },
+   "Snowball":{
+      "ID":332,
+      "Damage":0
+   }
+}
